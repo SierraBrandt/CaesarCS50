@@ -1,12 +1,1 @@
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
-# CaesarCS50
+Submition for CS50 Caesar project. Currently unfinished and inprogress
